@@ -17,9 +17,9 @@
 			<key>CFBundleIconFiles</key>
 			<array>
 				<string>icon.png</string>
-				<string>icon@2x.png</string>
+				<string>icon72@2x.png</string>
 				<string>icon-72.png</string>
-				<string>icon-72@2x.png</string>
+				<string>icon72@2x.png</string>
 				<string>large plaster_updated.png</string>
 				<string>plaster_large_updated_114.png</string>
 				<string>ROAG_large_updated_72.png</string>
